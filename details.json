@@ -1,0 +1,20 @@
+{"employee":[
+		{
+		  "Name":"Nandana",
+	          "Age":"22",
+		  "Address":[
+					{
+						"Street":[
+								{
+
+									"Name":"Kadavathur",
+									"PinCode":"670676"
+								}
+							],
+						"City":"Thalasserry",
+						"Country":"India"
+					}
+				  ]
+		}
+	    ]
+}	

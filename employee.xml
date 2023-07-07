@@ -1,0 +1,12 @@
+<employee>
+    <name>Nandana MK</name>
+    <age>21</age>
+    <address>
+	<street>
+		<name>Kadavathur</name>
+		<pin>670676</pin>
+	</street>
+	<city>Thalasserry</city>
+	<country>India</county>
+    </address>
+  </employee>
